@@ -4,10 +4,8 @@
       "ytnobody <ytnobody@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.11.0",
-   "license" : [
-      "perl_5"
-   ],
+   "generated_by" : "Minilla/v0.6.5",
+   "license" : "perl_5",
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
       "version" : "2"
@@ -21,8 +19,7 @@
          "share",
          "eg",
          "examples",
-         "author",
-         "builder"
+         "author"
       ]
    },
    "prereqs" : {
@@ -58,7 +55,7 @@
    "provides" : {
       "Nephia::Setup::Plugin::Relax" : {
          "file" : "lib/Nephia/Setup/Plugin/Relax.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -72,7 +69,7 @@
          "web" : "https://github.com/nephia/Nephia-Setup-Plugin-Relax"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_contributors" : [
       "papix <mail@papix.net>"
    ]
